@@ -1,6 +1,4 @@
-# BiomedCCPL
-
-Official implementation of **BiomedCCPL: Causal Conditional Prompt Learning for Biomedical Vision-Language Models** (CVPR 2026).
+# BiomedCCPL: Causal Conditional Prompt Learning for Biomedical Vision-Language Models
 
 [[Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Cui_BiomedCCPL_Causal_Conditional_Prompt_Learning_for_Biomedical_Vision-Language_Models_CVPR_2026_paper.html)]
 
