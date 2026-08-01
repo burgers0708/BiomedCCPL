@@ -1,0 +1,12 @@
+numpy>=1.24,<2
+Pillow>=9.4
+PyYAML>=6.0
+scikit-learn>=1.2
+tensorboard>=2.12
+timm==0.9.12
+torch>=2.0.1
+torchvision>=0.15.2
+tqdm>=4.65
+transformers==4.35.2
+open_clip_torch==2.23.0
+yacs>=0.1.8

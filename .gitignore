@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+.venv/
+venv/
+data/
+output/
+outputs/
+*.pth
+*.pth.tar
+*.pt
+*.ckpt
+wandb/
+runs/
